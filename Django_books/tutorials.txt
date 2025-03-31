@@ -1,0 +1,3 @@
+CS50's Django course (minimal introduction) : https://cs50.harvard.edu/web/2020/notes/3/
+django documentation
+learndjango.com
